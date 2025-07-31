@@ -88,7 +88,7 @@ section, footer {
 /* ====== HERO SECTION ====== */
 /* ✅ HOME SECTION STYLING */
 .home-hero {
-  background: url('/urpbuilding.png') no-repeat center center/cover;
+  background: url('urpbuilding.png') no-repeat center center/cover;
   height: 500px;
   position: relative;
   display: flex;
