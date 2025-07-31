@@ -64,7 +64,7 @@ fetch('pro.json')
         </div>
         <div class="card-bottom">
           <p><strong>Student ID:</strong> ${student.id}</p>
-          <p><strong>Merit:</strong> ${student.merit}</p>
+          <p><strong>District:</strong> ${student.district}</p>
           <p><strong>Blood Group:</strong> ${student.blood}</p>
           <p><strong>Contact:</strong> ${student.contact}</p>
         </div>
