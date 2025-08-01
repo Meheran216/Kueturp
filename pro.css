@@ -321,10 +321,6 @@ footer {
   border-bottom: 1px solid #ffe082;
 
 
-  max-width: 1100px;
-  margin: auto;             /* ✅ কেন্দ্র করে */
-  white-space: normal;      /* ✅ ভাঙা বন্ধ রাখে */
-  line-height: 1.6;         /* ✅ readability বাড়ায় */
 
   
 
