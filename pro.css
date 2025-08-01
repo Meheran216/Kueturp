@@ -319,7 +319,8 @@ footer {
   font-size: 15px;
   font-weight: 600;
   border-bottom: 1px solid #ffe082;
-
+max-height:100px;
+  width:auto;
 
 
   
