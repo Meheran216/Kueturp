@@ -197,10 +197,12 @@ footer {
 
 .student-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(275px, 1fr));
+  gap: 24px;
   margin-top: 2rem;
   justify-items: center;
+  align-items:start;
+  padding:1.5rem;
 }
 
 .student-card {
