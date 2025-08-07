@@ -9,7 +9,7 @@ body {
   font-family: "Segoe UI", Tahoma, sans-serif;
   line-height: 1.6;
   color: #333;
-  background-color: #fefefe;
+  background-color: #f0f8ff;
 }
 
 /* ====== CONTAINER HELPER ====== */
@@ -185,7 +185,7 @@ footer {
 
 /* ======= Students Section ======= */
 #searchInput {
-  width: 100%;
+  width: 90%;
   max-width: 400px;
   margin: 20px auto;
   padding: 10px 15px;
@@ -198,7 +198,7 @@ footer {
 .student-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(275px, 1fr));
-  gap: 24px;
+  gap: 3rem;
   margin-top: 2rem;
   justify-items: center;
   align-items:start;
