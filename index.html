@@ -108,6 +108,12 @@ As future urban planners of KUET’s URP 24 batch, we dream of shaping cities th
   <script src="pro.js"></script>
   <script src="stu.js"></script>
   
-  
+  <script>
+  // Disable right-click context menu
+  document.addEventListener('contextmenu', function(event) {
+    event.preventDefault();
+    alert('Right click is disabled on this site.');
+  });
+</script>
 </body>
 </html>
