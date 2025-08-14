@@ -136,14 +136,6 @@
     "image": "4809.jpg"
   },
   {
-    "name": "Md. Raihan Ul Amir",
-    "district": "",
-    "id": "----",
-    "blood": "",
-    "contact": "",
-    "image": "Sampic.png"
-  },
-  {
     "name": "Atik Rezwan",
     "district": "",
     "id": "----",
@@ -151,14 +143,8 @@
     "contact": "",
     "image": "Sampic.png"
   },
-  {
-    "name": "Ittila Tabassum",
-    "district": "Rajshahi",
-    "id": "----",
-    "blood": "B+",
-    "contact": "tabassumittila@gmail.com",
-    "image": "Sampic.png"
-  },
+  
+  
   {
     "name": "Kapilesh Nath",
     "district": "Chittagong",
